@@ -20,10 +20,6 @@ The following **required** functionality is complete:
 * [x] User wins the game after guessing a complete pattern
 * [x] User loses the game after an incorrect guess
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
@@ -47,7 +43,7 @@ I did not use any outside resources to help complete my project.
 
 ## License
 
-    Copyright [Lyneisha Dickenson]
+    Copyright Lyneisha Dickenson
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

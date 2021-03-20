@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:<br>
-<img src="http://g.recordit.co/ZtdltGi0cu.gif" width=400> <br>
+<img src="http://g.recordit.co/kyTsp3I2Oh.gif" width=400> <br>
 <img src="http://g.recordit.co/yegULpIQzI.gif" width=400> <br>
 
 ## Reflection Questions

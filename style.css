@@ -3,13 +3,13 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
-  background-color: slategrey;
-  color: white;
+  background-image: linear-gradient(to right, rgba(255,0,0,0), rgba(255,0,50,1));
+  color: black;
 }
 
 h1 {
   font-family: verdana, arial, sans-serif; 
-  color: pink;
+  color: slategrey;
 }
 
 button {

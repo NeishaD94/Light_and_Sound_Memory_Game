@@ -23,21 +23,22 @@ The following **required** functionality is complete:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](your-link-here)
-
+http://g.recordit.co/ZtdltGi0cu.gif
+[]! (http://g.recordit.co/yegULpIQzI.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 I did not use any outside resources to help complete my project.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[I the challenges I feel like I encountered in creating this submission was towards the end of the project when it ask for me to try to write the conditional logic inside the guess function by myself. 
+[A challenge I felt like I encountered in creating this light and sound memory game prework submission was towards the end of the project when it asks for me to try to write the conditional logic inside the guess function by myself. In all honesty, I feel like I was more intimidated than I should have been what I saw that but the explanation of all the code I wrote so far was done really well so I understood quite a bit of JavaScript syntax. So first I tried to understand what was being asked of me and I looked at the JavaScript code I just wrote, and I tried at the used that as my guide. I got suck a few times when I was doing the nested if/else statements, trying to remember what all I needed to add so that the code does what I need it too. When I was finished, I compared what I wrote to the answer given in the prework and saw I was not too far off. I added what I saw that I was missing and comprehend why I needed it for my game to run properly. Looking at the solution and the explanation of certain thing I coded earlier in the project helped me to overcome this challenge.]
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[I had a pretty good understanding about HTML and CSS before this project so no questions there. I believe the breakdown of the JavaScript throughout the project helped me to understand things I did not quite comprehend before. I was the know more about JavaScript frames like React and also how does Nodejs come in. Also, I would like to know how someone deploys a website and how do everyone work together to get the project done. From the client to the UX developer to the frontend developers to back-end developer. It’d be nice to see a project from beginning to end.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had more hours to work on this project, I would definitely try to have additional feature like a counter to tell the player what turn they are on and add code to only allow for 3 chances before losing the game then the player would have to start over. I would add levels, so the game adds more color buttons and/or the speed increases each new level, so that game gets harder as the player gets to a new level. Or maybe have a difficulty selection option for easy, medium and hard. I would also have a timer so as the difficulty increases the time to complete the level decreases. Lastly, I’d had a pauses button incase the player needs to stop for a brief minute to do something and some back but after 10 minutes the game will end, and the player will have to start over.]
 
 
 

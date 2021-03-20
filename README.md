@@ -20,6 +20,10 @@ The following **required** functionality is complete:
 * [x] User wins the game after guessing a complete pattern
 * [x] User loses the game after an incorrect guess
 
+The following **optional** features are implemented:
+
+* [x] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:<br>
